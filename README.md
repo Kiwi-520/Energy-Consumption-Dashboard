@@ -1,4 +1,5 @@
 # 🔋 World Energy Consumption Dashboard
+-------------------
 
 An interactive data analysis dashboard that visualizes global energy consumption patterns using real-world data from Kaggle's World Energy Consumption dataset.
 
